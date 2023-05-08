@@ -10,7 +10,9 @@ I've been learning to code on my own for a few months, It's not been the easiest
 *   ✉️  You can contact me at [francis.i.authority@gmail.com](mailto:francis.i.authority@gmail.com)
 *   🧠  I'm learning CSS Frameworks
 *   🤝  I'm open to collaborating on projects of any kind that may tickle my interest.
-*   ⚡  I sing too!<a href="https://www.github.com/france-auth" target="_blank" rel="noreferrer"><img
+*   ⚡  I sing too!
+
+<a href="https://www.github.com/france-auth" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/france-auth?logo=github&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a><a href="https://www.twitter.com/franceauth_" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/franceauth_?logo=twitter&style=for-the-badge&color=f97316&labelColor=1e3a8a"></a>
 Skills 
